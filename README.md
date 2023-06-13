@@ -28,5 +28,7 @@
 * _should go here_
 
 ## License
+MIT
 
 ## Contact Information
+akindijiduro@gmail.com
